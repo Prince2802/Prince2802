@@ -47,3 +47,7 @@ I'm a Software Engineer currently looking for new Opportunities
 ![Bash](https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/princec1/
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2802&show_icons=true&locale=en" alt="drop-x-out" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince2802&" alt="drop-x-out" /></p>
