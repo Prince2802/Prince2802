@@ -4,6 +4,10 @@
 
 I'm a Software Engineer currently looking for new Opportunities
 
+- 📫 How to reach me **chaudhary.prince97@gmail.com**
+
+<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
+
 ### Connect with me:
 
 [<img align="left" alt="PRINCEC1 LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" />][linkedin]
