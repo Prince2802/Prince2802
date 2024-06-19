@@ -1,7 +1,10 @@
 ## Hi there 👋 I am Prince Chaudhary !!!
 
-About me :
+##About me :
+
 I'm a Software Engineer currently looking for new Opportunities
+
+[![wakatime](https://wakatime.com/badge/user/b01c42e8-ed9f-4a9a-b03c-b20939809472/project/5e96944f-917a-4d9f-aaf8-990a96e6dd95.svg)](https://wakatime.com/@8ead7b74-441e-4a55-a485-743eaee10516)
 
 ### Connect with me:
 
