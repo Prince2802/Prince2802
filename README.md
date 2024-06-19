@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I am Prince Chaudhary !!!
 
-<!--
-**Prince2802/Prince2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me :
+I'm a Software Engineer currently looking for new Opportunities
 
-Here are some ideas to get you started:
+wakatime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+princec1 LinkedIn
+
+
+Languages and Tools:
+
+🌐 Web :
+Angular Ionic RxJS TypeScript TailwindCSS React HTML5 CSS3
+
+🤖 OOP :
+C Java C++
+
+☁️ Hosting/SaaS :
+Firebase
+
+💾 Databases :
+MySQL MongoDB
+
+🥅 Other :
+Docker Git Bash
