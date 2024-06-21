@@ -7,7 +7,10 @@ I'm a Software Engineer currently looking for new Opportunities
 - 📫 How to reach me **chaudhary.prince97@gmail.com**
 
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2802&label=Profile%20views&color=0e75b6&style=flat" alt="prince2802" /> </p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RianPacheco}/count.svg" /></p> 
+<br></div>
 
 ### Connect with me:
 
