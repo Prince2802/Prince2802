@@ -9,7 +9,7 @@ I'm a Software Engineer currently looking for new Opportunities
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RianPacheco}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Prince2802}/count.svg" /></p> 
 <br></div>
 
 ### Connect with me:
