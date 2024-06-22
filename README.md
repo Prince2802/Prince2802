@@ -6,6 +6,8 @@ I'm a Software Engineer currently looking for new Opportunities
 
 - 📫 How to reach me **chaudhary.prince97@gmail.com**
 
+[![wakatime](https://wakatime.com/badge/user/8ead7b74-441e-4a55-a485-743eaee10516.svg)](https://wakatime.com/@8ead7b74-441e-4a55-a485-743eaee10516)
+
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
