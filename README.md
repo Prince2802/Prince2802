@@ -6,6 +6,9 @@ I'm a Software Engineer currently looking for new Opportunities
 
 - 📫 How to reach me **chaudhary.prince97@gmail.com**
 
+<p><strong>Experience</strong> => 2 years as Software Engineer &nbsp</p>
+<p><strong>Verifone</strong> => June 2022 - May 2024</p>
+
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -51,6 +54,6 @@ I'm a Software Engineer currently looking for new Opportunities
 
 [linkedin]: https://www.linkedin.com/in/princec1/
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2802&show_icons=true&locale=en" alt="drop-x-out" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2802&show_icons=true&locale=en" alt="prince2802" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince2802&" alt="drop-x-out" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince2802&" alt="prince2802" /></p>
