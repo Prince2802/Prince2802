@@ -2,7 +2,7 @@
 
 ## About me :
 
-I'm a Software Engineer currently looking for new Opportunities
+I'm a Software Engineer 2 at LexisNexis
 
 - 📫 How to reach me **chaudhary.prince97@gmail.com**
 
