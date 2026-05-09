@@ -14,7 +14,7 @@ I'm a Software Engineer 2 at LexisNexis
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/Prince2802/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Prince2802&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
 <br></div>
 
