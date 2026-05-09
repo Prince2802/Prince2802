@@ -6,8 +6,9 @@ I'm a Software Engineer 2 at LexisNexis
 
 - 📫 How to reach me **chaudhary.prince97@gmail.com**
 
-<p><strong>Experience</strong> => 2 years as Software Engineer &nbsp</p>
+<p><strong>Experience</strong> => 4 years as Software Engineer &nbsp</p>
 <p><strong>Verifone</strong> => June 2022 - May 2024</p>
+<p><strong>LexisNexis</strong> => September 2024 - Current</p>
 
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <div align="center">
