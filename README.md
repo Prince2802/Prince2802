@@ -68,7 +68,14 @@ I'm a Software Engineer 2 at LexisNexis
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince2802&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2802&show_icons=true&locale=en" alt="prince2802" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prince2802&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince2802&" alt="prince2802" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince2802&layout=compact&theme=tokyonight" />
+</p>
