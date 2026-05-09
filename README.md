@@ -20,7 +20,7 @@ I'm a Software Engineer 2 at LexisNexis
 
 ### Connect with me:
 
-[<img align="left" alt="PRINCEC1 LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince2802-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princec1/)
 
 <br />
 
@@ -68,7 +68,6 @@ I'm a Software Engineer 2 at LexisNexis
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince2802-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princec1/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2802&show_icons=true&locale=en" alt="prince2802" /></p>
 
